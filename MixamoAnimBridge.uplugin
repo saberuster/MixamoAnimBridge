@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MixamoAnimBridge",
+	"Description": "mixamo anims to ue4 tool ",
+	"Category": "Other",
+	"CreatedBy": "saberuster",
+	"CreatedByURL": "https://github.com/saberuster",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
